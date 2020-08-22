@@ -16,6 +16,10 @@ Repo with resources and codes about cybersecurity, which would be the field i wo
   9.  The docx document presents 25 types of cyberSecurity vulnerabilities and what to do to fight against them. 
   
 
+
+
+[PHP security](https://1fichier.com/?ieeb66di1tfnoaa7s9ji)
+
 I have also read the documentation of PHP regarding security on their official web sites and learned how to : 
 
 1. hide php code
