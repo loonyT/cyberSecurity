@@ -11,7 +11,7 @@ Repo with resources and codes about cybersecurity, which would be the field i wo
   6.  Manage vulnerabilities in legacy code
   7.  Prevent information leaks that disclose vulnerabilities
   8.  Mitigate advanced attacks like malvertising and denial-of-service
-
+  9.  The docx document presents 25 types of cyberSecurity vulnerabilities and what to do to fight against them. 
 
 I have also read the documentation of PHP regarding security on their official web sites and learned how to : 
 
