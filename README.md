@@ -2,6 +2,7 @@
 Repo with resources and codes about cybersecurity, which would be the field i would like to work in later. 
 
  [25 Cyber Securities Vulnerabilities and How to Fight them](https://1fichier.com/?hodh9ahz1ql8zrfvw3t7)
+ 
  With the reading of the following book : https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald/dp/1593279949 i learned how to, for instance : 
 
   1.  Protect against SQL injection attacks, malicious JavaScript, and cross-site request forgery
