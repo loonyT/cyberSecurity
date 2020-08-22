@@ -3,26 +3,26 @@ Repo with resources and codes about cybersecurity, which would be the field i wo
 
  With the reading of the following book : https://www.amazon.com/Web-Security-Developers-Malcolm-McDonald/dp/1593279949 i learned how to, for instance : 
 
-  •  Protect against SQL injection attacks, malicious JavaScript, and cross-site request forgery
-  •  Add authentication and shape access control to protect accounts
-  •  Lock down user accounts to prevent attacks that rely on guessing passwords, stealing sessions,
-  •  or escalating privileges
-  •  Implement encryption
-  •  Manage vulnerabilities in legacy code
-  •  Prevent information leaks that disclose vulnerabilities
-  •  Mitigate advanced attacks like malvertising and denial-of-service
+  1.  Protect against SQL injection attacks, malicious JavaScript, and cross-site request forgery
+  2.  Add authentication and shape access control to protect accounts
+  3.  Lock down user accounts to prevent attacks that rely on guessing passwords, stealing sessions,
+  4.  or escalating privileges
+  5.  Implement encryption
+  6.  Manage vulnerabilities in legacy code
+  7.  Prevent information leaks that disclose vulnerabilities
+  8.  Mitigate advanced attacks like malvertising and denial-of-service
 
 
 I have also read the documentation of PHP regarding security on their official web sites and learned how to : 
 
--"hide" php code
--use "register global"
--error reporting
--password hashing
-- encrypt storage model
--secure a database
--deal with file system security
--set doc_root or user_dir
--cgi.force_redirect
--only public files served 
+1. hide php code
+2. use register global
+3. error reporting
+4. password hashing
+5. encrypt storage model
+6. secure a database
+7. deal with file system security
+8. set doc_root or user_dir
+9. cgi.force_redirect
+10. only public files served 
 
