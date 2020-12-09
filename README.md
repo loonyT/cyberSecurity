@@ -33,3 +33,9 @@ I have also read the documentation of PHP regarding security on their official w
 9. cgi.force_redirect
 10. only public files served 
 
+
+
+[resources]()
+
+1. https://learningnetwork.cisco.com/s/all-media
+
